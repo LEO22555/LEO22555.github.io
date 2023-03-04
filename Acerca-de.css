@@ -1,0 +1,209 @@
+ .u-section-1 {
+  background-image: none;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 631px;
+}
+
+.u-section-1 .u-group-1 {
+  min-height: 717px;
+  height: auto;
+  width: 1145px;
+  margin: 60px -4px 60px auto;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-1 .u-text-1 {
+  font-weight: 400;
+  font-size: 2.25rem;
+  margin: 106px 13px 0 595px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 539px;
+  height: 361px;
+  object-position: 0% 50%;
+  margin: -39px auto 0 13px;
+}
+
+.u-section-1 .u-text-2 {
+  line-height: 2;
+  font-size: 1rem;
+  margin: -294px 0 0 595px;
+}
+
+.u-section-1 .u-btn-1 {
+  letter-spacing: 1px;
+  font-weight: 700;
+  text-transform: uppercase;
+  box-shadow: 2px 0 0 0 rgba(0,0,0,0);
+  transition-duration: 0.5s;
+  text-shadow: 0px 0px 0px rgba(0,0,0,0);
+  transform: translateX(0px) translateY(0px) scale(1) rotate(0deg);
+  margin: 79px 336px 0 auto;
+  padding: 20px 46px 20px 45px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 622px;
+  }
+
+  .u-section-1 .u-group-1 {
+    min-height: 502px;
+    margin-bottom: 4px;
+    width: 940px;
+    margin-right: 0;
+    height: auto;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: auto;
+    margin-right: 0;
+    margin-left: 430px;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-top: -24px;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: auto;
+    margin-top: -271px;
+    margin-left: 430px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    border-style: none;
+    margin-top: 34px;
+    margin-right: 236px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 982px;
+  }
+
+  .u-section-1 .u-group-1 {
+    min-height: 862px;
+    margin-bottom: 60px;
+    width: 720px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: 456px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-top: -374px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-top: 79px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-top: 30px;
+    margin-right: auto;
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-group-1 {
+    min-height: 791px;
+    width: 540px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding: 0 10px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: 365px;
+    margin-left: 43px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 250px;
+    height: 348px;
+    margin-right: 250px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 43px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-group-1 {
+    width: 340px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-bottom: 30px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 1.875rem;
+    margin-top: 262px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-image-1 {
+    height: 214px;
+    margin-top: -265px;
+    margin-right: 70px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-top: 73px;
+    margin-left: 0;
+  }
+}
+
+.u-section-1 .u-btn-1,
+.u-section-1 .u-btn-1:before,
+.u-section-1 .u-btn-1 > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, image-zoom, background-size, background-position;
+}
+
+.u-section-1 .u-btn-1.u-btn-1.u-btn-1:hover {
+  box-shadow: 2px 2px 8px 0px rgba(128,128,128,1) !important;
+  transform: scale(1) translateY(px) !important;
+  text-shadow: 0px 0px 0px rgba(0,0,0,0) !important;
+}
+
+.u-section-1 .u-btn-1.u-btn-1.u-btn-1:hover:before {
+  background-color: transparent !important;
+}
+
+.u-section-1 .u-btn-1 {
+  border-color: transparent !important;
+}
+
+.u-section-1 .u-btn-1.u-btn-1.u-btn-1.hover {
+  box-shadow: 2px 2px 8px 0px rgba(128,128,128,1) !important;
+  transform: scale(1) translateY(px) !important;
+  text-shadow: 0px 0px 0px rgba(0,0,0,0) !important;
+}
+
+.u-section-1 .u-btn-1 {
+  border-color: transparent !important;
+}
+
+.u-section-1 .u-container-layout:hover .u-btn-1 {
+  transform: rotate(0deg) scale(1) translateX(0px) translateY(0px) !important;
+}
+
+.u-container-layout.hover .u-section-1 .u-btn-1 {
+  transform: rotate(0deg) scale(1) translateX(0px) translateY(0px) !important;
+}
